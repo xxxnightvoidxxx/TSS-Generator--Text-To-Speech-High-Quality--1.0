@@ -1,0 +1,7 @@
+{
+  "cpu": "Intel64 Family 6 Model 158 Stepping 13, GenuineIntel",
+  "ram_gb": 31.9,
+  "has_cuda": true,
+  "gpu": "NVIDIA GeForce RTX 3060",
+  "vram_gb": 12.0
+}

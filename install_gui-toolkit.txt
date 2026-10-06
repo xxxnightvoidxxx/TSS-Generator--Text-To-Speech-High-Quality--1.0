@@ -1,0 +1,8 @@
+pip install customtkinter
+pip install pygame
+pip install pypdf tkinterdnd2
+pip install onnxruntime-gpu
+
+If you have no NVIDIA GPU, install the CPU runtime instead (usually already present, but this guarantees it):
+
+pip install onnxruntime
